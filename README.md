@@ -37,7 +37,7 @@ Here is two screenshots of how the solutions look like for desktop and mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [My solution](https://itsale-o.github.io/four-card-feature-section-master/)
 
 ## My process
 
